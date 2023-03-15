@@ -1,0 +1,14 @@
+D:\Programozás\11F\hazi_1.1\N_vezer\N_vezer\bin\Debug\N_vezer.exe.config
+D:\Programozás\11F\hazi_1.1\N_vezer\N_vezer\bin\Debug\N_vezer.exe
+D:\Programozás\11F\hazi_1.1\N_vezer\N_vezer\bin\Debug\N_vezer.pdb
+D:\Programozás\11F\hazi_1.1\N_vezer\N_vezer\obj\Debug\N_vezer.csproj.AssemblyReference.cache
+D:\Programozás\11F\hazi_1.1\N_vezer\N_vezer\obj\Debug\N_vezer.csproj.CoreCompileInputs.cache
+D:\Programozás\11F\hazi_1.1\N_vezer\N_vezer\obj\Debug\N_vezer.exe
+D:\Programozás\11F\hazi_1.1\N_vezer\N_vezer\obj\Debug\N_vezer.pdb
+D:\Programozás\11F\hazi_1.1\N-kir-lyn-\N_vezer\N_vezer\bin\Debug\N_vezer.exe.config
+D:\Programozás\11F\hazi_1.1\N-kir-lyn-\N_vezer\N_vezer\bin\Debug\N_vezer.exe
+D:\Programozás\11F\hazi_1.1\N-kir-lyn-\N_vezer\N_vezer\bin\Debug\N_vezer.pdb
+D:\Programozás\11F\hazi_1.1\N-kir-lyn-\N_vezer\N_vezer\obj\Debug\N_vezer.csproj.AssemblyReference.cache
+D:\Programozás\11F\hazi_1.1\N-kir-lyn-\N_vezer\N_vezer\obj\Debug\N_vezer.csproj.CoreCompileInputs.cache
+D:\Programozás\11F\hazi_1.1\N-kir-lyn-\N_vezer\N_vezer\obj\Debug\N_vezer.exe
+D:\Programozás\11F\hazi_1.1\N-kir-lyn-\N_vezer\N_vezer\obj\Debug\N_vezer.pdb
